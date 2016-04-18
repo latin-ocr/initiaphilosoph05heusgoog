@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./initiaphilosoph05heusgoog_0213.png"; bbox 0 0 2792 5167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 76 169 876 398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 76 169 876 398">
+     <span class='ocr_line' id='line_1_1' title="bbox 76 169 876 398; baseline 0.024 -113"><span class='ocrx_word' id='word_1_1' title='bbox 76 169 266 398; x_wconf 60' lang='grc' dir='ltr'>ΘΓ</span> <span class='ocrx_word' id='word_1_2' title='bbox 337 211 876 386; x_wconf 51' lang='lat' dir='ltr'>‘iz-qast(</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 781 558 1636 1047">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 781 558 1636 1047">
+     <span class='ocr_line' id='line_1_2' title="bbox 781 558 1636 664; baseline 0.011 -27"><span class='ocrx_word' id='word_1_3' title='bbox 781 558 1058 637; x_wconf 76' lang='lat' dir='ltr'>Harvard</span> <span class='ocrx_word' id='word_1_4' title='bbox 1086 560 1353 657; x_wconf 69' lang='lat' dir='ltr'>college</span> <span class='ocrx_word' id='word_1_5' title='bbox 1385 565 1636 664; x_wconf 59' lang='grc' dir='ltr'>[ἥπατι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 923 655 1500 740; baseline 0.014 -10"><span class='ocrx_word' id='word_1_6' title='bbox 923 655 1121 731; x_wconf 74' lang='lat' dir='ltr'><strong>B‘owie</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1153 658 1500 740; x_wconf 71' lang='lat' dir='ltr'><strong>collection</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 841 757 1321 833; baseline 0.015 -7"><span class='ocrx_word' id='word_1_8' title='bbox 841 759 852 764; x_wconf 84' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1093 757 1226 830; x_wconf 70' lang='lat' dir='ltr'>Gist</span> <span class='ocrx_word' id='word_1_10' title='bbox 1248 758 1321 833; x_wconf 88' lang='lat' dir='ltr'>of</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 815 853 1591 956; baseline 0.013 -26"><span class='ocrx_word' id='word_1_11' title='bbox 815 853 966 932; x_wconf 62' lang='grc' dir='ltr'><strong><em>ΜΝ..</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1002 855 1065 932; x_wconf 88' lang='grc' dir='ltr'>Ε.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1101 857 1171 931; x_wconf 87' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1221 856 1591 956; x_wconf 80' lang='lat' dir='ltr'>Brandegee</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 964 954 1445 1047; baseline 0 -11"><span class='ocrx_word' id='word_1_15' title='bbox 964 955 1120 1036; x_wconf 75' lang='grc' dir='ltr'>Νον.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1147 954 1218 1047; x_wconf 80' lang='grc'>9,</span> <span class='ocrx_word' id='word_1_17' title='bbox 1263 960 1445 1036; x_wconf 75' lang='grc'>1908</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

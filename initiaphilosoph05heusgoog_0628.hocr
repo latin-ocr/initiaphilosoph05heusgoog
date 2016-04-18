@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./initiaphilosoph05heusgoog_0628.png"; bbox 0 0 2792 5167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 286 1832 2214 2161">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 286 1832 2214 2163">
+     <span class='ocr_line' id='line_1_1' title="bbox 971 1832 1709 1933; baseline 0.004 -26"><span class='ocrx_word' id='word_1_1' title='bbox 971 1832 1511 1909; x_wconf 75' lang='lat' dir='ltr'>INITIA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1702 1924 1709 1933; x_wconf 44' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 286 2026 2214 2161; baseline 0.002 -4"><span class='ocrx_word' id='word_1_3' title='bbox 286 2026 2214 2161; x_wconf 68' lang='lat' dir='ltr'><strong>PHILOSOPRIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 646 2308 1875 2459">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 646 2308 1875 2459">
+     <span class='ocr_line' id='line_1_3' title="bbox 646 2308 1875 2459; baseline 0.001 -49"><span class='ocrx_word' id='word_1_4' title='bbox 646 2308 1875 2459; x_wconf 45' lang='lat' dir='ltr'><strong>12LAJJON1&lt;LAE</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

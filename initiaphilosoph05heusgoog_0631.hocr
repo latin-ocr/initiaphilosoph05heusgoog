@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./initiaphilosoph05heusgoog_0631.png"; bbox 0 0 2792 5167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 337 170 1041 377">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 337 170 1041 377">
+     <span class='ocr_line' id='line_1_1' title="bbox 337 170 1041 377; baseline 0.043 -132"><span class='ocrx_word' id='word_1_1' title='bbox 337 170 494 377; x_wconf 65' lang='grc' dir='ltr'><strong>ΘΓ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 581 190 1041 339; x_wconf 53' lang='grc' dir='ltr'><strong>83.9Ἶ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 947 552 1839 776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 947 552 1839 776">
+     <span class='ocr_line' id='line_1_2' title="bbox 947 552 1802 674; baseline 0.027 -41"><span class='ocrx_word' id='word_1_3' title='bbox 947 552 1227 635; x_wconf 67' lang='lat' dir='ltr'><strong>flamm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1255 562 1523 661; x_wconf 68' lang='lat' dir='ltr'>college</span> <span class='ocrx_word' id='word_1_5' title='bbox 1554 571 1802 674; x_wconf 62' lang='grc' dir='ltr'><strong>[λίπει-γ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1088 654 1839 776; baseline 0.033 -48"><span class='ocrx_word' id='word_1_6' title='bbox 1088 654 1291 733; x_wconf 73' lang='lat' dir='ltr'><strong>Bowie</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1315 662 1664 776; x_wconf 63' lang='grc' dir='ltr'><strong>βοηθοῦσα</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1830 756 1839 767; x_wconf 67' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
